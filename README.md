@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @G33kfleek
 - 👀 I’m interested in React Native and Flutter App development
 - 🌱 I’m currently learning and doing research on AI
-- 💞️ I’m looking to collaborate on Robotics and ML
+- 💞️ I’m looking to collaborate on Automation and Machine Learning
 - 📫 How to reach me ...radrex460@gmail.com
 
 <!---
