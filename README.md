@@ -1,6 +1,10 @@
 
 😎 Hi, I'm Brad (a.k.a. Yalo / Connel)!  
+---
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blueviolet&style=flat)  
+![Made with Love in Kenya](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20Kenya-green?style=flat&logo=github)  
 
+---
 A Self-taught Full Stack Developer, Designer & Content Creator 🚀  
 
 🌍 Based in Kenya  
@@ -18,7 +22,7 @@ A Self-taught Full Stack Developer, Designer & Content Creator 🚀
 ---
 
 ### 👨‍💻 A little more about me...
-```js
+js
 const Brad = {
   pronouns: "he" | "him",
   code: ["JavaScript", "Python", "PHP", "Dart", "C++"],
@@ -26,7 +30,7 @@ const Brad = {
   pipeLine: ["MERN", "Serverless", "AI-driven Apps"],
   hobbies: ["Video Editing", "UI/UX Design", "Cycling", "Writing Blogs ✍️", "Watching Sci-Fi 👽"]
 };
-```
+
 
 ---
 
@@ -68,17 +72,11 @@ const Brad = {
 
 ### 📊 GitHub Stats
 
-![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
-![Brad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical)  
+![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=G33kfleek&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G33kfleek&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G33kfleek&theme=radical)  
+![Brad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=G33kfleek&theme=radical)  
 
----
 
-### 🎯 Fun Stuff  
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blueviolet&style=flat)  
-![Made with Love in Kenya](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20Kenya-green?style=flat&logo=github)  
-
----
 
 💡 *I love connecting with curious minds. If you want to say hi, I’ll be happy to meet you more!*  
