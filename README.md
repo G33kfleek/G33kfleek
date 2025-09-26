@@ -1,7 +1,7 @@
 
 😎 Hi, I'm Brad (a.k.a. Yalo / Connel)!  
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=gamer&label=Profile%20views&color=blueviolet&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=linux&label=Profile%20views&color=blueviolet&style=flat)  
 ![Made with Love in Kenya](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20Kenya-green?style=flat&logo=github)  
 
 ---
