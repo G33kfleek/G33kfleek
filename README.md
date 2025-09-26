@@ -1,5 +1,5 @@
 
-😎 Hi, I'm Brad (a.k.a. Yalo / Connel)!  
+😎 Hi, I'm Brad (a.k.a. Geek )!  
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&Profile%20views&color=blueviolet&style=flat)  
 ![Made with Love in Kenya](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20Kenya-green?style=flat&logo=github)  
