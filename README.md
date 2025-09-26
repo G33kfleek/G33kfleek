@@ -74,7 +74,7 @@ const Brad = {
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G33kfleek&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G33kfleek&theme=radical)  
+
 
 
 
