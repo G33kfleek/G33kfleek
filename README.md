@@ -3,7 +3,8 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&Profile%20views&color=blueviolet&style=flat)  
 ![Made with Love in Kenya](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20Kenya-green?style=flat&logo=github)  
-
+### 🎶 Now Playing on my Mind  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/3Zkf0QXcar0hZExoB3OKyd)  
 ---
 A Self-taught Full Stack Developer, Designer & Content Creator 🚀  
 
@@ -22,13 +23,12 @@ A Self-taught Full Stack Developer, Designer & Content Creator 🚀
 ---
 
 ### 👨‍💻 A little more about me...
-js
 const Brad = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "Python", "PHP", "Dart", "C++"],
-  tools: ["Svelte", "React", "Node.js", "Express.js", "Firebase", "TailwindCSS", "Flutter"],
-  pipeLine: ["MERN", "Serverless", "AI-driven Apps"],
-  hobbies: ["Video Editing", "UI/UX Design", "Cycling", "Writing Blogs ✍️", "Watching Sci-Fi 👽"]
+  code: ["💻 JavaScript", "🐍 Python", "🐘 PHP", "🎯 Dart", "➕ C++"],
+  tools: ["🧩 Svelte", "⚛️ React", "🌐 Node.js", "🚂 Express.js", "🔥 Firebase", "🎨 TailwindCSS", "📱 Flutter"],
+  pipeLine: ["🌱 MERN", "☁️ Serverless", "🤖 AI-driven Apps"],
+  hobbies: ["🎬 Video Editing", "🎨 UI/UX Design", "🚴 Cycling", "✍️ Writing Blogs", "👽 Watching Sci-Fi"]
 };
 
 
@@ -56,9 +56,6 @@ const Brad = {
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)  
 
 ---
-
-### 🎶 Now Playing on Spotify  
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)  
 
 ---
 
