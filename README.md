@@ -72,10 +72,9 @@ const Brad = {
 
 ### 📊 GitHub Stats
 
-![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=G33kfleek&show_icons=true&theme=radical)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G33kfleek&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G33kfleek&theme=radical)  
-![Brad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=G33kfleek&theme=radical)  
 
 
 
