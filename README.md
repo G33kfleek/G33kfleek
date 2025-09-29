@@ -26,7 +26,7 @@ A Self-taught Full Stack Developer, Designer & Content Creator 🚀
 const Brad = {
   pronouns: "he" | "him",
   code: ["💻 JavaScript", "🐍 Python", "🐘 PHP", "🎯 Dart", "➕ C++"],
-  tools: ["🧩 Svelte", "⚛️ React", "🌐 Node.js", "🚂 Express.js", "🔥 Firebase", "🎨 TailwindCSS", "📱 Flutter"],
+  tools: ["🐍⛎ Python", "🧩 Svelte", "⚛️ React", "🌐 Node.js", "🚂 Express.js", "🔥 Firebase", "🎨 TailwindCSS", "📱 Flutter"],
   pipeLine: ["🌱 MERN", "☁️ Serverless", "🤖 AI-driven Apps"],
   hobbies: ["🎬 Video Editing", "🎨 UI/UX Design", "🚴 Cycling", "✍️ Writing Blogs", "👽 Watching Sci-Fi"]
 };
@@ -41,7 +41,7 @@ const Brad = {
 - Experimenting with **Pedal-Powered Charging Chair** for off-grid communities ⚡  
 - Collaborated with peers on **resume builder tools** (Svelte + Firebase) 📄  
 - Cybersecurity researcher — exploring AI parallels to **Jarvis & Ultron** 🤖  
-- Wrote a concept essay on **The Lucy Effect** (reflecting on a past we never lived) 🪐  
+- Wrote a concept essay on **The Lucy Effect** (accessing your full mind/brain potential with the current tech/lifestyle) 🪐  
 
 ---
 
@@ -60,10 +60,11 @@ const Brad = {
 ---
 
 ### 🪛 Toolkit
-- **Frontend:** Svelte, React, Flutter, TailwindCSS  
-- **Backend:** Node.js, Express, Firebase, PHP  
+- **Frontend:** Svelte, React, Flutter, TailwindCSS
+- **Backend:** Python, Node.js, Express, Firebase, PHP  
 - **Databases:** Firestore, MySQL, MongoDB  
-- **Other:** Docker, Git, Video Editing, UI/UX Design  
+- **Cloud Infrastructure:** AWS, Netlify, Firebase, Heroku, Vercel 
+- **Other:** Docker, Git, Video Editing, UI/UX Design 
 
 ---
 
