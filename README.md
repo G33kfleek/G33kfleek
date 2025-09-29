@@ -6,7 +6,7 @@
 ### 🎶 Now Playing on my Mind  
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/3Zkf0QXcar0hZExoB3OKyd)  
 ---
-A Self-taught Full Stack Developer, Designer & Content Creator 🚀  
+A Self-taught Full Stack Developer, Graphic Designer & Content Creator 🚀  
 
 🌍 Based in Kenya  
 
