@@ -35,13 +35,13 @@ const Brad = {
 ---
 
 ### 🎓 Experiences & Projects
-- Built a **Petition & Gig Platform** with real-time comments and global search 🔍  
+- Built a **Petition & Gig Platform** with real-time comments and making pledges 🔍  
 - Working on a **PDF → Audiobook Converter** using Firebase + AI 🎧  
 - Developed a **Telegram Bot** that auto-generates YouTube Shorts 🎥  
 - Experimenting with **Pedal-Powered Charging Chair** for off-grid communities ⚡  
 - Collaborated with peers on **resume builder tools** (Svelte + Firebase) 📄  
 - Cybersecurity researcher — exploring AI parallels to **Jarvis & Ultron** 🤖  
-- Wrote a concept essay on **The Lucy Effect** (accessing your full mind/brain potential with the current tech/lifestyle) 🪐  
+
 
 ---
 
