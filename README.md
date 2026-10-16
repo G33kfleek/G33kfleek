@@ -10,7 +10,7 @@ A Self-taught Full Stack Developer, Graphic Designer & Content Creator 🚀
 
 🌍 Based in Kenya  
 
-📹 I also create thought-provoking **video essays** & love experimenting with **tech + storytelling**.  
+📹 I also create thought-provoking **video essays** & love experimenting with **tech + storytelling through video games**.  
 
 ---
 
