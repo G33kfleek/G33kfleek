@@ -28,7 +28,7 @@ const Brad = {
   code: ["💻 JavaScript", "🐍 Python", "🐘 PHP", "🎯 Dart", "➕ C++"],
   tools: ["🐍⛎ Python", "🧩 Svelte", "⚛️ React", "🌐 Node.js", "🚂 Express.js", "🔥 Firebase", "🎨 TailwindCSS", "📱 Flutter"],
   pipeLine: ["🌱 MERN", "☁️ Serverless", "🤖 AI-driven Apps"],
-  hobbies: ["🎬 Video Editing", "🎨 UI/UX Design", "🚴 Cycling", "✍️ Writing Blogs", "👽 Watching Sci-Fi"]
+  hobbies: ["🎬 Video Editing", "🎨 UI/UX Design", "🚴 Cycling", "✍️ Writing Blogs", "👽 Watching Some Sci-Fi shi!"]
 };
 
 
